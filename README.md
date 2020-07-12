@@ -1,1 +1,1 @@
-# RIO-Project-Automated-Grammar-Correction-
+# RIO-Project-Automated-Grammatical-Error-Correction-
